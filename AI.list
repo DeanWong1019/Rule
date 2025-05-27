@@ -87,5 +87,7 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 
 # > DIA
+DOMAIN,api.segment.io
+DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,diabrowser.engineering
 
