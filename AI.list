@@ -1,12 +1,3 @@
-# Update: 20250526
-# Use USA IP to enjoy it.
-# The list from
-# sources1: https://kelee.one/Tool/Loon/Rule/AI.list
-# sources2: https://github.com/ConnersHua/RuleGo/blob/master/Surge/Ruleset/Extra/AI.list
-# sources3: https://ruleset.skk.moe/List/non_ip/ai.conf
-# sources4: https://github.com//blackmatrix7/ios_rule_script/blob/master/rule/Surge/OpenAI/OpenAI.list and like Gemini.list\Claude.list\Copilot.list
-# sources5: github@ddgksf2013
-
 # > Ai general rules
 DOMAIN,api.statsig.com
 DOMAIN,browser-intake-datadoghq.com
